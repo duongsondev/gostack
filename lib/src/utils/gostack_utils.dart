@@ -1,0 +1,3 @@
+class GoStackUtils {
+  static
+}
